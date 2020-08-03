@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://cdn1.thr.com/sites/default/files/2018/03/the_shawshank_redemption_-_h_-_1994.jpg",
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "rating": 9.2,
+    "director": "Frank Darabont",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "url": "https://bingepost.com/wp-content/uploads/2020/03/Inception-characters-film-crew.jpg",
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+  },
+  {
+    "url": "https://img1.looper.com/img/gallery/the-matrix-4-will-reportedly-start-something-big/intro-1576775790.jpg",
+    "title": "The Matrix",
+    "genre": "Action",
+    "rating": 8.7,
+    "director": "Lana Wachowski",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+  },
+  {
+    "url": "https://cdn.onebauer.media/one/empire-images/features/5718b250b602bb802e20f3e6/Interstellar%20primary1.jpg?quality=50&width=900&ratio=16-9&resizeStyle=aspectfill&format=jpg",
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "rating": 8.5,
+    "director": "Christopher Nolan",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "url": "https://m.hindustantimes.com/rf/image_size_1200x900/HT/p2/2019/09/25/Pictures/_115e3b3a-df82-11e9-b0cd-667d8786d605.jpg",
+    "title": "Joker",
+    "genre": "Drama",
+    "rating": 8.5,
+    "director": "Todd Phillips",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker."
+  },
+  {
+    "url": "https://cdn.onebauer.media/one/empire-tmdb/films/10681/images/2nFyTvssbtJMLC6eyYwwZ88gALD.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg",
+    "title": "WALL·E",
+    "genre": "Animation",
+    "rating": 8.4,
+    "director": "Andrew Stanton",
+    "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+  }
+]

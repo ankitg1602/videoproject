@@ -1,0 +1,44 @@
+.video-card {
+  margin-top: 1rem;
+  padding: 1rem;
+  box-shadow: 0 1px 4px 0px #c7c7c7;
+}
+
+.video-card:hover {
+  box-shadow: 0 1px 8px 1px #c7c7c7;
+}
+
+.video-image {
+  width: 500px;
+  height: 300px;
+  background-size: 500px 300px;
+}
+
+.video-details {
+  position: relative;
+}
+
+.video-title {
+  font-weight: 600;
+  margin-top: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.video-rating {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.video-decription {
+  margin-top: 0.5rem;
+  width: 500px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #828282;
+}
+
+.video-info {
+  margin-top: 0.5rem;
+  color: #545454;
+}
